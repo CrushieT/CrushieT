@@ -70,7 +70,7 @@ Computer Science graduate focused on backend development using Java, Spring Boot
 
 ## Awards
 
-* 🏆 1st Place Winner – Smart Solutions for Real-World Challenges Hackathon 2026
+* 🏆 1st Runner Up – Smart Solutions for Real-World Challenges Hackathon 2026
 * 🏆 Best in Presentation – Smart Solutions for Real-World Challenges Hackathon 2026
 * 🏆 Best System Developers Award – MC-CCS ICT Expo 2024
 
