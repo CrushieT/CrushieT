@@ -77,5 +77,6 @@ Computer Science graduate focused on backend development using Java, Spring Boot
 ## Connect With Me
 
 * LinkedIn: [linkedin.com/in/aundray-tafalla](https://linkedin.com/in/aundray-tafalla)  
-* GitHub: [github.com/CrushieT](https://github.com/CrushieT), [github.com/aundraytafalla](https://github.com/aundraytafalla)  
+* GitHub: [github.com/CrushieT](https://github.com/CrushieT)
+* Academic GitHub: [github.com/aundraytafalla](https://github.com/aundraytafalla)  
 * Email: [aundraytafalla@gmail.com](mailto:aundraytafalla@gmail.com)
